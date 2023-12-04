@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![vue](link)
+![Vue JS](https://img.shields.io/badge/Vue%20JS-this%20is%20mine%20program-blue?labelColor=red&style=flat&logo=vue&logoColor=yellow)
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=irsyaad06&label=seek%20on%20me%3F&color=11&icon=6&pretty=true" />
 </a>
