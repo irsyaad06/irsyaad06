@@ -1,6 +1,6 @@
 ### Holaaa 👾
 
-- ⚡ Fun fact: I'm Rada Gewlo hehe...
+- ⚡ Fun fact: Kanzler eNjoyEr lel
 
 Disini Gada apa apa gaasik bHakss
 
