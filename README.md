@@ -1,8 +1,8 @@
 ### Holaaa 👾
 
-- ⚡ Fun fact: Kanzler eNjoyEr lel
+We exist because of nothing
 
-Disini Gada apa apa gaasik bHakss
+Enjoy my reposs😌🚀
 
 ![irsyaad06's Streak](https://github-readme-streak-stats.herokuapp.com/?user=irsyaad06&theme=radical&hide_border=false)<br/>
 
